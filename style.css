@@ -1,19 +1,32 @@
 /* The code below puts the title of the website in the center */
-.title { 
+.inbed { 
     text-align: center;
+    
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: rgb(239, 240, 255);
+    color: rgb(237, 247, 251);
     text-align: center;
-    background-color: rgb(26, 32, 103);
+    background-color: rgb(26, 80, 103);
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:rgb(239, 240, 255);
+    color:rgb(237, 247, 251);
     text-align: center;
-    background-color: rgb(76, 81, 134);
+    background-color: rgb(87, 123, 139);
+}
+
+p{
+    font-family: 'Bahnschrift', sans-serif;
+}
+
+h1{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.fishie{
+    width: 1100px;
 }

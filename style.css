@@ -29,6 +29,15 @@ h1{
     font-size: 40px;
 }
 
+img{
+  width: 400px;
+}
+
+a{
+  color:white;
+  font-size: 20px;;
+}
+
 .container {
   position: relative;
   text-align: center;
